@@ -1,6 +1,6 @@
 {
   "name": "react-sortable-hoc_ietablefix",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A clone of React Sortable HOC by Clauderic Demers",
   "author": {
     "name": "Conny Kawohl",
